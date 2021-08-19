@@ -71,7 +71,7 @@ h1 {
     cursor: pointer;
     border: 2px solid #111;
     color: #111;
-    border-radius: 0 100px;
+    border-radius: 0 100px/ 10px 50px;
     background: #fff;
     letter-spacing: 0.125em;
     font-weight: 800;
@@ -83,7 +83,7 @@ h1 {
     overflow: scroll;
     padding: 0.625em;
     margin: 0.625em;
-    background-color: #CF0527;
+    background-color: #fff;
     border: 1px solid #333;
 }
 
